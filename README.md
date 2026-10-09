@@ -99,7 +99,7 @@ A beautifully designed glassmorphic card representing an AI-powered summary feat
 [▶ Watch Project Demo](https://drive.google.com/file/d/1QJPD5MsJhyVz5dpvw35PT-IN5sosWzjl/view?usp=drivesdk)
 
 **Live Preview**
-[Visit Live Prototype](https://your-project-url.com/) *(Add your deployment link here)*
+[🚀 Visit Live Prototype](https://notevault-one.vercel.app/)
 
 ---
 
